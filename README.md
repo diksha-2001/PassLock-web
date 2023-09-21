@@ -1,11 +1,7 @@
 # PassLock-web
 Create a powerful secure password using "PassLock", a simple web-based Password Generator Application built with HTML, CSS &amp; JavaScript. It Helps to prevent a security threat by getting a strong password. 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=F1F7F4&width=441&height=55&lines=Glad+to+see+you+here+inside+my+Repo-%22Razorpay_clone%22)](https://git.io/typing-svg)
-
-It's a clone website that has been designed similarly to the design of the Indian payment gateway, "Razorpay". <br>
-Razorpay helps to process online payments for online as well as offline businesses.<br>
-Razorpay Clone is a FrontEnd webpage designed using HTML, CSS3, JavaScript, and Tailwind Css.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=F1F7F4&width=441&height=55&lines=Glad+to+see+you+here+inside+my+Repo-%22PassLock-web%22)](https://git.io/typing-svg)
 
 
 ## 📌 **Live Site URL:** <a href="https://passlock-web.netlify.app/">**Visit Now** 🚀</a>
@@ -16,7 +12,8 @@ Razorpay Clone is a FrontEnd webpage designed using HTML, CSS3, JavaScript, and 
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
+![JS](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
+
 <br>
 <br>
 
